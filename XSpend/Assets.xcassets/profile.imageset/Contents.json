@@ -2,12 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "vault.png",
+      "filename" : "profile.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "vault 2x.png",
       "scale" : "2x"
     },
     {

@@ -2,12 +2,12 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "vault.png",
+      "filename" : "report.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "vault 2x.png",
+      "filename" : "report 2x.png",
       "scale" : "2x"
     },
     {
